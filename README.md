@@ -1,4 +1,4 @@
-# Nebulas JavaScript API
+# Node EcoSystem API
 
 [![NPM](https://nodei.co/npm/nebulas.png)](https://nodei.co/npm/nebulas/)
 
