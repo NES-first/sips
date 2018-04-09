@@ -1,7 +1,5 @@
 # Node EcoSystem API
 
-[![NPM](https://nodei.co/npm/nebulas.png)](https://nodei.co/npm/nebulas/)
-
 This readme will get you started with using the `neb.js` file.
 This file can be found in [neb.js](https://github.com/nebulasio/neb.js).
 
